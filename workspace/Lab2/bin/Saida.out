@@ -1,0 +1,193 @@
+EU (ID: 6)
+Ataque = 0
+Vida Atual = 0
+Vida Maxima = 0
+Custo de Mana = 6
+
+Frodo Bolseiro (ID: 1)
+Ataque = 8
+Vida Atual = 1
+Vida Maxima = 1
+Custo de Mana = 1
+
+Aragorn (ID: 2)
+Ataque = 5
+Vida Atual = 7
+Vida Maxima = 7
+Custo de Mana = 7
+
+Aragorn (ID: 2)
+Ataque = 5
+Vida Atual = 7
+Vida Maxima = 7
+Custo de Mana = 7
+
+You shall not pass
+Antes de Buffar:
+Frodo Bolseiro (ID: 1)
+Ataque = 8
+Vida Atual = 1
+Vida Maxima = 1
+Custo de Mana = 1
+
+Depois de Buffar:
+Frodo Bolseiro Buffed (ID: 1)
+Ataque = 18
+Vida Atual = 11
+Vida Maxima = 11
+Custo de Mana = 1
+
+Antes de Buffar:
+Aragorn (ID: 2)
+Ataque = 5
+Vida Atual = 7
+Vida Maxima = 7
+Custo de Mana = 7
+
+Depois de Buffar:
+Aragorn (ID: 2)
+Ataque = 5
+Vida Atual = 7
+Vida Maxima = 7
+Custo de Mana = 7
+
+Antes de Buffar:
+Legolas (ID: 3)
+Ataque = 8
+Vida Atual = 4
+Vida Maxima = 4
+Custo de Mana = 6
+
+Depois de Buffar:
+Legolas (ID: 3)
+Ataque = 7
+Vida Atual = 3
+Vida Maxima = 3
+Custo de Mana = 6
+
+Antes de Buffar:
+Frodo Bolseiro Buffed (ID: 1)
+Ataque = 18
+Vida Atual = 11
+Vida Maxima = 11
+Custo de Mana = 1
+
+Depois de Buffar:
+Frodo Bolseiro Buffed Buffed (ID: 1)
+Ataque = 28
+Vida Atual = 13
+Vida Maxima = 13
+Custo de Mana = 1
+
+Antes de Buffar:
+Aragorn (ID: 2)
+Ataque = 5
+Vida Atual = 7
+Vida Maxima = 7
+Custo de Mana = 7
+
+Depois de Buffar:
+Aragorn Buffed (ID: 2)
+Ataque = 5
+Vida Atual = 12
+Vida Maxima = 12
+Custo de Mana = 7
+
+Antes de Buffar:
+Aragorn Buffed (ID: 2)
+Ataque = 5
+Vida Atual = 12
+Vida Maxima = 12
+Custo de Mana = 7
+
+Depois de Buffar:
+Aragorn Buffed Buffed (ID: 2)
+Ataque = 15
+Vida Atual = 12
+Vida Maxima = 12
+Custo de Mana = 7
+
+Antes de Buffar:
+Legolas (ID: 3)
+Ataque = 7
+Vida Atual = 3
+Vida Maxima = 3
+Custo de Mana = 6
+
+Depois de Buffar:
+Legolas (ID: 3)
+Ataque = 7
+Vida Atual = 3
+Vida Maxima = 3
+Custo de Mana = 6
+
+Antes de Buffar:
+Legolas (ID: 3)
+Ataque = 7
+Vida Atual = 3
+Vida Maxima = 3
+Custo de Mana = 6
+
+Depois de Buffar:
+Legolas (ID: 3)
+Ataque = 1
+Vida Atual = 1
+Vida Maxima = 1
+Custo de Mana = 6
+
+Antes de Buffar:
+Frodo Bolseiro Buffed Buffed (ID: 1)
+Ataque = 28
+Vida Atual = 13
+Vida Maxima = 13
+Custo de Mana = 1
+
+Depois de Buffar:
+Frodo Bolseiro Buffed Buffed Buffed (ID: 1)
+Ataque = 58
+Vida Atual = 3
+Vida Maxima = 3
+Custo de Mana = 1
+
+Antes de Buffar:
+Frodo Bolseiro Buffed Buffed Buffed (ID: 1)
+Ataque = 58
+Vida Atual = 3
+Vida Maxima = 3
+Custo de Mana = 1
+
+Depois de Buffar:
+Frodo Bolseiro Buffed Buffed Buffed Buffed (ID: 1)
+Ataque = 8
+Vida Atual = 203
+Vida Maxima = 203
+Custo de Mana = 1
+
+Antes de Buffar:
+EU (ID: 6)
+Ataque = 0
+Vida Atual = 0
+Vida Maxima = 0
+Custo de Mana = 6
+
+Depois de Buffar:
+EU (ID: 6)
+Ataque = -5
+Vida Atual = 0
+Vida Maxima = 0
+Custo de Mana = 6
+
+Antes de Buffar:
+Aragorn (ID: 2)
+Ataque = 5
+Vida Atual = 7
+Vida Maxima = 7
+Custo de Mana = 7
+
+Depois de Buffar:
+Aragorn Buffed (ID: 2)
+Ataque = 2005
+Vida Atual = 2007
+Vida Maxima = 2007
+Custo de Mana = 7
+

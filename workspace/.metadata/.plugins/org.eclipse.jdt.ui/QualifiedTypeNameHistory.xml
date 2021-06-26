@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="CartaMagia"/>
+<fullyQualifiedTypeName name="base.cartas.HabilidadesLacaio"/>
+<fullyQualifiedTypeName name="base.cartas.TipoCarta"/>
+<fullyQualifiedTypeName name="util.Util"/>
+<fullyQualifiedTypeName name="base.serviceImpl.ProcessadorServiceImpl"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="io.Escritor"/>
+<fullyQualifiedTypeName name="base.ILaMaSerializable"/>
+<fullyQualifiedTypeName name="java.io.FileWriter"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.util.UUID"/>
+<fullyQualifiedTypeName name="io.Leitor"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="base.cartas.Lacaio"/>
+<fullyQualifiedTypeName name="LamaException"/>
+</qualifiedTypeNameHistroy>

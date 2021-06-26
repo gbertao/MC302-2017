@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 2 elements to &apos;Cartas/src/(default package)&apos;&#x0A;- Original project: &apos;Lab2&apos;&#x0A;- Destination element: &apos;Cartas/src/(default package)&apos;&#x0A;- Original elements:&#x0A;     CartaMagica.java&#x0A;     CartaLacaio.java&#x0A;- Update references to refactored element" description="Move compilation units" destination="=Cartas/src&lt;" element1="/src&lt;{CartaMagica.java" element2="/src&lt;{CartaLacaio.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1489842666828" units="2" version="1.0"/>
+</session>

@@ -1,0 +1,9 @@
+obj Lacaio
+id 0e9ff176-431d-4268-9e45-aaee86cad798
+nome Eu
+custoMana 1
+ataque 2
+vidaAtual 3
+vidaMaxima 3
+habilidade null
+obj Lacaio
